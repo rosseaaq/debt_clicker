@@ -1,0 +1,6 @@
+﻿Build started at 11:41 pm...
+1>------ Build started: Project: debt-clicker, Configuration: Debug x64 ------
+1>  debt-clicker.cpp
+1>  debt-clicker.vcxproj -> D:\lamee\debt-clicker\x64\Debug\debt-clicker.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 11:41 pm and took 00.641 seconds ==========

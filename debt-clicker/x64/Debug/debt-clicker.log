@@ -1,0 +1,10 @@
+﻿  debt-clicker.cpp
+D:\lamee\debt-clicker\debt-clicker.cpp(694,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\lamee\debt-clicker\debt-clicker.cpp(694,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\lamee\debt-clicker\debt-clicker.cpp(695,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\lamee\debt-clicker\debt-clicker.cpp(695,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\lamee\debt-clicker\debt-clicker.cpp(809,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\lamee\debt-clicker\debt-clicker.cpp(809,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\lamee\debt-clicker\debt-clicker.cpp(810,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\lamee\debt-clicker\debt-clicker.cpp(810,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  debt-clicker.vcxproj -> D:\lamee\debt-clicker\x64\Debug\debt-clicker.exe

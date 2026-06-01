@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="debt-clicker.vcxproj" Id="29ba7854-749a-428e-8465-cdcb4de96a24" />
+</Solution>
